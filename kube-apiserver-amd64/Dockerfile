@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-apiserver-amd64:v1.6.0
+FROM mirrorgooglecontainers/kube-apiserver-amd64:v1.16.0
 MAINTAINER fuhoujun
